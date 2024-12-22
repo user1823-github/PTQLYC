@@ -1,0 +1,14 @@
+Hệ thống quản lý sinh viên 
+và lịch dạy cho giáo viên
+Các STAKEHOLDER
+1. Sinh viên (Khách hàng).
+2. Giáo viên.
+3. Người quản trị hệ thống (Admin).
+4. Quản lý giao viên
+5. Bộ phận hỗ trợ sinh viên.
+6. Quản lý hồ sơ
+7. Quản lý điểm
+8. Quản lý môn học
+9. Bộ phận Kế toán.
+10. Tìm kiếm (VD: tìm điểm, tìm sinh viên, ... bổ sung thêm) 
+11. Phòng đạo tạo
